@@ -3,7 +3,7 @@ ob_start();
 
 // ========== CONFIG ==========
 $botToken = "8849506469:AAEUm5txVTwYJmE4otFmklohDOMEc09pjlQ";
-$website = "https://tgbot-ajlo.onrender.com/bot".$botToken;
+$website = "https://api.telegram.org/bot".$botToken;
 $adminID = "6331680252";
 
 // ========== FILES ==========
