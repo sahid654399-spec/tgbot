@@ -2,9 +2,9 @@
 ob_start();
 
 // ========== CONFIG ==========
-$botToken = "8965830768:AAFVs8RxGGwnLwIW8n1msmD0NUQqwzUIRpA";
+$botToken = "8849506469:AAEUm5txVTwYJmE4otFmklohDOMEc09pjlQ";
 $website = "https://api.telegram.org/bot".$botToken;
-$adminID = "8777129138";
+$adminID = "6331680252";
 
 // ========== FILES ==========
 foreach(["balances.json","orders.json","temp.json","users.json","settings.json","categories.json","products.json"] as $f) {
